@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Social Media Links",
+    "description": "Quick Links",
+    "version": "1.0.0",
+    "icons": { "128": "shank.png" },
+    "browser_action": {
+      "default_icon": "shank2.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
